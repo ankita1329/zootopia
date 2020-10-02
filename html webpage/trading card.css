@@ -1,0 +1,19 @@
+.heading{
+  text-align:center;
+  font-family:cursive;
+  font-weight: bold;
+  color: ;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left,#fd00da,#0faf57);
+  background-origin: border-box;
+  background-clip: content-box,border-box;
+}
+.note{
+  background-color: yellow;
+  color:blue;
+}
+body{
+  background-color: turquoise;
+}
